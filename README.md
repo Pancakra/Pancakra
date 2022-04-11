@@ -1,4 +1,3 @@
-![MasterHead](https://www.pngplay.com/wp-content/uploads/7/Nyan-Cat-PNG-Clipart-Background.gif)
 <h1 align="center">Hi 👋, I'm Pancakra</h1>
 <h3 align="center">📝 I currently study on UKSW</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/5jbUB088YjtGU/giphy.gif"
